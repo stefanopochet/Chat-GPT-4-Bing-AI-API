@@ -16,4 +16,4 @@ You need a microsoft account whitelisted to access the Bing AI Chat feature in o
 
 # How to access the API
 Currently the API is deployed through RapidAPI, to access the API please check the RapidAPI API listing:
-https://rapidapi.com/nealab/api/chatgpt-4-bing-ai-chat-api/
+https://rapidapi.com/stefano-pochet-stefano-pochet-default/api/chatgpt-4-bing-ai-chat-api
